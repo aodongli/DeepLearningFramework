@@ -1,3 +1,3 @@
 Use theano framework to complete sequence-to-sequence model, with or without a attention scheme.
 
-v2 and v3 are different structures or variants of the above model.
+These models aim at lyrics generation model by using sequence-to-sequence model or keywords-to-sequence model.
