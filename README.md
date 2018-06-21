@@ -1,2 +1,2 @@
 # DeepLearningFramework
-This repository is mainly about my coding work using deep learning framework like theano and tensorflow at Tsinghua University 
+This repository is the reproduced code of Neural Responding Machine for Short-Text Conversation (https://www.aclweb.org/anthology/P15-1152 ) using deep learning framework including theano and tensorflow.
